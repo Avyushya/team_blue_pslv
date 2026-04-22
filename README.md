@@ -4,10 +4,7 @@
 The Student Team Members Management Application is a full-stack MERN (MongoDB, Express.js, React.js, Node.js) web application. It is designed to manage and display information about student team members. Users can add new team members with detailed information (including Roll Number, Degree, Hobbies, etc.) and upload profile pictures. The app stores all data in a local MongoDB database and serves it through a REST API.
 
 ## Installation Steps
-1. **Clone the repository:**
-   ```bash
-   git clone <your-github-repo-link>
-   cd TEAM-BLUE
+
 Install Backend Dependencies:
 
 Bash
